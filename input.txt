@@ -1,0 +1,4 @@
+ls 
+cat Makefile
+rm output.txt
+cat Makefile > output.txt 
